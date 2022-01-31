@@ -34,3 +34,5 @@ The inputs used to run this code is :
   - window = rolling window, in days, used to calculate the correlations between the pairs of the portfolio
 
 You can find tests and analysis in the pdf "csmom_pairs_tests_and_analysis.pdf".
+
+Note: the cross-sectional momentum strategy is considered the "benchmark" strategy.
