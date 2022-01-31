@@ -1,5 +1,5 @@
 # Classic Long/Short trading VS Pairs trading: Which strategy is the most efficient ?
-Based on Goulding and Al. paper "Decoding Decoding Systematic Relative Investing: A Pairs Approach", the idea of this project is to compare cross-sectional momentum (csmom) trading strategy performance and pairs trading strategy performance.
+Based on Goulding and Al. paper "Decoding Systematic Relative Investing: A Pairs Approach", the idea of this project is to compare cross-sectional momentum (csmom) trading strategy performance and pairs trading strategy performance.
 
 The inputs used to run this code is :
 * Portfolio = "data_mef.csv" : 15 futures on the following equity indices of developed countries:
