@@ -19,7 +19,7 @@ The inputs used to run this code is :
   - CAC40, France (CF1 Index)
   - Euro Stoxx50, Eurozone (VG1 Index)
 
-For each futures, the metric used is the closed price.
+For each future, the metric used is the closed price.
   
 * Period before cleaning (cf clean_dataset function) : 29/12/1995 - 01/10/2021 
 * Period after cleaning : 15/02/2005 - 01/10/2021
